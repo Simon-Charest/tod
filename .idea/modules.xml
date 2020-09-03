@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../simon_quest-git/.idea/simon_quest-git.iml" filepath="$PROJECT_DIR$/../simon_quest-git/.idea/simon_quest-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tod-git.iml" filepath="$PROJECT_DIR$/.idea/tod-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../usb_joystick_adapter-git/.idea/usb_joystick_adapter-git.iml" filepath="$PROJECT_DIR$/../usb_joystick_adapter-git/.idea/usb_joystick_adapter-git.iml" />
+    </modules>
+  </component>
+</project>
